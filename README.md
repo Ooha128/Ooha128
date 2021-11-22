@@ -5,9 +5,10 @@
 
 :school: I am studying in V R Siddhartha Engineering College.
 
-🌱 I’m currently learning Web technology , Operating systems .
+🌱 I’m currently learning Computer Networks, DBMS.
 
-:tada: I'm currently interning with Adobe as product intern this summer
+:tada: I completed interning with Adobe as product intern this summer(2021).
 
+:tada: I'm currently UIPATH Student champion.
 
 📫 How to reach me: goohashree@gmail.com
