@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-🔭 I’m currently pursuing B.tech 4th year in the stream of Computer Science and Engineering 
+🔭 I’m currently working at ADOBE as Member of Technical Staff
 
-:school: I am studying in V R Siddhartha Engineering College.
+:school: Graduated in Computer Science And Engineering from VRSEC 2023
 
-🌱 I’m currently learning Full stack Development.
+🌱 Enthusiast of Full stack Development.
 
 :tada: I completed interning with Adobe as product intern for summer 2021 & 2022.
 
